@@ -1,0 +1,130 @@
+{
+  "Type of photography": {
+    "none": null,
+    "random": ["Portrait photography", "Cinematic still", "Fashion photography", "Street photography", "Underwater photography", "Time-lapse photography", "Black and White photography", "360-Degree photography", "Documentary photography", "Natural photography", "3D framed style art photography"]
+},
+
+  "Ethnicity": {
+    "none": null,
+    "random": ["African", "Caucasian", "Asian", "Latino", "Middle Eastern", "Mixed", "Native American", "Pacific Islander", "Indian", "Mediterranean", "Eastern European", "Western European", "Northern European", "Southern European", "Scandinavian", "Australasian", "African American", "Hispanic", "Jewish", "Arab"]
+  },
+  "Age":{
+    "none":null,
+    "random":["young", "mid-twenty",  "middle-aged", "aged", "old"]
+  },
+  "Genre": {
+    "none": null,
+    "random": ["dog", "cat", "lion", "tiger", "elephant", "giraffe"]
+},
+"Hair | Length": {
+    "non": null,
+    "random": ["Furless", "Short fur", "Medium fur", "Long fur"]
+},
+
+  "Hair | Animal style": {
+    "none": null,
+    "random": ["Curly fur", "Straight fur", "Furless", "Tangled fur", "Tied-up fur", "Bob fur with bangs", "Braided fur", "Ponytail fur", "Bangs fur", "Mohawk fur", "Afro fur", "Pixie fur", "Wavy fur", "Dreadlocks fur", "Quiff fur", "Feathered fur", "Spiky fur", "Layered fur", "Shaggy fur", "Asymmetrical fur", "A-line bob fur", "French bob fur", "Cornrows fur", "Box braids fur", "Fishtail braids fur", "Dutch braids fur", "French braids fur", "Micro braids fur"]
+},
+
+"Hair | Animal style": {
+    "none": null,
+    "random": ["Fur with stripes", "Feathered crest", "Smooth scales", "Bald (featherless)", "Short mossy fringe", "Tufted fur", "Furrowed skin with spikes", "Crested fur with waves", "Flowing foliage", "Moss-covered texture", "Leafy mane", "Bark-like texture", "Grassy fur", "Wavy petals", "Faded foliage", "Petals with fade", "Mossy undercut", "Leaf-swept fringe", "Textured bark back", "Faded foliage", "Pompadour petals", "Fade feathers", "Petals with fade"]
+},
+
+  "Hair | Color": {
+    "none": null,
+    "random": ["Brown hair", "Blonde hair", "Black hair", "Red hair", "Gray hair", "Multicolored hair", "Platinum Blonde hair", "Dirty Blonde hair", "Honey Blonde hair", "Strawberry Blonde hair", "Auburn hair", "Chestnut hair", "Chocolate Brown hair", "Caramel Brown hair", "Copper hair", "Mahogany hair", "Burgundy hair", "Jet Black hair", "Pastel hair", "Silver hair"]
+  },
+  "Hair | Accessories":{
+    "none": null,
+    "random": ["Bun cover", "Hairpods", "Hair bell", "Hair bobbles", "Hair ribbond", "Hair chopsticks", "Comb on hair", "Hair bow", "Hairclip", "Hairpin", "Hair flower", "Hair tubes", "Kanzanshi", "Hair tie", "Hairband", "Hair weapon", "Headband", "Scrunchie", "Wig", "Beanie", "Hat", "Cap", "Santa hat"]
+  },
+  "Eyes | Shape": {
+    "none": null,
+    "random": ["Asian eyes shape", "Round eyes", "Oval eyes", "Close-set eyes shape", " Protruning eyes shape", "Almond eyes shape", "Upturned eyes shape", "Downturned eyes shape", "Monolid eyes shape", "Double Eyelid eyes shape", "Hooded eyes shape", "Deep Set eyes shape"]
+  },
+  "Eyes | Color": {
+    "none": null,
+    "random": ["Blue eyes", "Green eyes", "Brown eyes", "Hazel eyes", "Gray eyes", "Amber eyes", "Violet eyes", "Red eyes", "Black eyes", "Albino eyes", "Heterochromia eyes"]
+  },
+  "Eyes | Accessories": {
+    "none": null,
+    "random": ["sunglasses", "Reading glasses", "eyes mask", "virtual reality glasses", "Safety glasses","Goggles"]
+  },
+  "Lips | Shape": {
+    "none": null,
+    "random": ["Parted lips", "Closed lips", "Smiling lips", "Pouting lips", "Biting lips", "Neutral lips", "Plump lips", "Thin lips", "Cupid's Bow lips", "Full lips", "Round lips", "Heart-shaped lips", "Bow-shaped lips", "Wide lips", "Small lips", "Medium lips", "Large lips", "Defined Cupid's Bow lips", "Soft Cupid's Bow lips", "Flat Cupid's Bow lips", "Upper Lip Mole lip", "Lower Lip Mole lips"]
+  },
+    "Lips | Color": {
+    "none": null,
+    "random": ["Red lips", "Purple lips", "Pink lips", "Berry lips", "Coral lips", "Plum lips", "Mauve lips", "Peach lips", "Burgundy lips", "Brown lips", "Black lips","Blue lips", "Yellow lips", "Glossy red lips","Orange lips"]
+  },
+  "Face | Shape": {
+    "none": null,
+    "random": ["Oval face", "Square face", "Round face", "Heart face", "Diamond face", "Long face", "Triangle face", "Inverted Triangle face", "Rectangle face", "Oblong face", "Pear face", "Circle face", "Square with Rounded Jaw", "Square with Sharp Jaw", "Square with Soft Jaw face", "Round with Defined Cheekbones face", "Round with Soft Cheekbones face", "Round with High Cheekbones face", "Heart with Pointed Chin face", "Heart with Rounded Chin face", "Heart with V-Shape Chin face"]
+  },
+  "Face | Make-up": {
+    "none": null,
+    "random": ["Natural makeup", "Glam makeup", "Classic makeup", "Vintage makeup", "Retro makeup", "Boho makeup", "Bohemian makeup", "Edgy makeup", "No-makeup", "Artistic makeup", "Avant-garde makeup", "Monochromatic makeup", "Festival makeup", "Party makeup", "Dewy makeup", "Glowy makeup", "Cut crease makeup", "Sunset eye makeup", "Geometric makeup", "Anime makeup", "Watercolor makeup", "Golden makeup"]
+  },
+  "Face | Emotion": {
+    "none": null,
+    "random": ["Happy", "Sad", "Surprised", "Angry", "Neutral", "Excited", "Disgusted", "Fearful", "Calm", "Confused", "Amused", "Sarcastic", "Bored", "Anxious", "Curious", "Joyful", "Pensive", "Proud", "Shy", "Silly"]
+  },
+   "Body | Shape": {
+    "none": null,
+    "random": ["Short body", "Tall body", "Small body", "Midweight body", "Overweight body", "Fat body", "Buxom body", "Voluptuous body", "Hefty body", "Plump body", "Obese body", "Morbidly obese body", "Stout body", "Rotund body", "Thick body", "Beefy body", "Portly body", "Chubby body", "Buff body", "Fit body", "Well-built body", "Well-endowed", "Muscular body", "Stocky body", "Curvy body", "Flyweight body", "Skinny body", "Slender body", "Lanky body", "Slim body", "Slight body", "Tiny body", "Large body", "Petite body"]
+  },
+  "Body | Pose": {
+    "none": null,
+    "random": ["Standing", "Artistic dance pose", "Classical dance pose", "Fashion model pose", "Expressive female pose", "Masculine pose", "Movement pose", "Jojo pose", "Battle pose", "One leg up pose", "Sexy pose", "Vivacious pose", "Kung fu pose", "Muscle pose", "Yoga pose", "Magic pose", "S-shape pose", "Vogue pose", "Glamour pose", "Contrapposto pose", "Tilted head pose", "Smoking pose", "Meditation pose", "Captivating pose", "Royal pose", "Feminine pose", "Dynamic Sitting pose", "Sitting pose", "Walking", "Running", "Jumping", "Dancing", "Kneeling", "Lying down", "Leaning", "Twirling", "Stretching", "Bending", "Reaching", "Crouching", "Lifting", "Balancing", "Skipping", "Cartwheel", "Handstand", "Headstand"]
+  },
+    "Body | Action": {
+    "none": null,
+    "random": ["Waving hand", "Ajusting clothing", "Playing with shadow", "Interacting with props", "Ajusting Hair", "Gazing into the distance", "Looking back over shoulder", "Against a wall", "Flipping hair", "Laughing candidly", "Dynamic jump", "Holding phone", "Holding pen", "Reading book", "Writing", "Singing", "Confident stance", "Action scene", "Look into the distance", "Crossing legs", "Holding microphone", "Holding ice cream", "Holding headset", "Touching face", "Eating", "Driving", "Playing game", "Chassing", "Holding glass", "Riding", "Touching hair", "Hainds on face", "One haind on face", "Hainds above head", "Holding bag", "Crossing arms", "Touching ear"]
+  },
+  "Clothes style": {
+    "none": null,
+    "random": ["Casual dress", "Formal dress", "Sporty dress", "Bohemian dress", "Vintage dress", "Streetwear dress", "Business Casual dress", "Business Professional dress", "Smart Casual dress", "Business Formal dress", "Cocktail dress", "Party dress", "Club dress", "Casual Chic dress", "Retro dress", "Gothic dress", "Punk dress", "Preppy dress", "Hipster dress", "Edgy dress"]
+  },
+  "Lighting | Directional": {
+    "none": null,
+    "random": ["Cinematic lighting", "Natural light", "Dimly lit", "Strip light", "speedlight", "softbox lighting","Soft light", "Harsh light", "Backlight", "Top light", "Side light", "Underlighting", "Rim light", "Key light", "Fill light", "Rembrandt lighting", "Loop lighting", "Butterfly lighting", "Split lighting", "Broad lighting", "Short lighting", "Low-key lighting", "High-key lighting", "Ambient light"]
+  },
+  "Lighting | Effect":{
+    "none": null,
+    "random":["Volumetric lighting", "Lens flare", "Bloom", "Caustics", "Reflections", "Glare", "Halos", "Shadows", "Scattering", "Rainbows", "Auroras", "Fog and mist", "Mist", "Thunderstorms", "Solar flares", "Crepuscular rays", "Glow", "Corona", "Heat haze"]
+  },
+  "Time of day": {
+    "none": null,
+    "random": ["Sunrise", "Morning", "starlight","Afternoon", "Golden hour", "Blue hour", "Sunset", "Evening", "Night", "Moonlight"]
+  },
+  "Weather": {
+    "none": null,
+    "random": ["Sunny", "Partly cloudy", "Rainy", "Snowy", "Overcast", "Foggy", "Hazy", "Clear sky", "Snowstorm", "Dark clouds", "Drizzle", "Heavy rain", "Hailstorm", "Dusk", "Dawn"]
+  },
+  "Photo backdrop": {
+    "none": null,
+    "random": ["Solid white background", "Classic black background", "Neutral gray background", "Chroma key green background", "Royal blue background", "Deep red background", "muted brown background", "soft pink background", "gradient blue to white background", "vintage woodgrain background", "midnight black background", "urban concrete background", "autumn orange background", "ocean blue background", "subtle beige background", "vibrant yellow background", "lavander hues background", "silver sparkle background", "forest green background", "retro polka dots background"]
+  },
+  "Environment | Background": {
+    "none": null,
+    "random": ["Cityscape background", "Nature background", "Studio background", "Abstract background", "Industrial background", "Beach background", "Forest background", "Desert background", "Mountain background", "Lake background", "Countryside background", "Urban background", "Street background", "Graffiti background", "Wall background", "Brick wall background", "Wooden wall background", "Concrete wall background", "Metal wall background", "Waterfall background", "River background", "Bridge background", "Building background", "Alley background", "Park background", "Garden background", "Field background", "Meadow background", "Sunset background", "Sunrise background", "Dusk background", "Dawn background", "Skyline background", "Skyscraper background"]
+  },
+  "Camera": {
+    "none": null,
+    "random": ["Sony A7 III", "Canon EOS R6", "Nikon Z6", "Fuji X-T4", "Panasonic Lumix S1", "Leica Q2", "Olympus OM-D E-M1 Mark III", "Pentax K-1 Mark II", "Sigma fp", "Hasselblad X1D II 50C", "Fujifilm GFX 100S", "Nikon D850", "Canon EOS-1D X Mark III", "Sony Alpha 1", "Nikon D6", "Canon EOS R5", "Sony A7R IV", "Canon EOS RP", "Nikon Z50", "Fujifilm X-T4", "Sony A6400", "Canon EOS M50"]
+  },
+  "Camera distance": {
+    "none": null,
+    "random": ["Close-up", "Medium shot", "Medium close-up shot", "Extreme close-up", "Full body shot","Over-the-shoulder shot", "Bird's eye view", "Cowboy shot", "Panning shot", "Aerial shot", "Long shot", "Upper body shot", "Full shot", "Establishing shot", "Drone shot", "Tracking shot", "Crane shot", "Steadicam shot", "Zoom shot", "Static shot", "Handheld shot", "Point of view shot"]
+  },
+  "PA7_Portrait-tools": {
+    "none": null,
+    "random": ["BREAK PA7_Portrait-ECU", "BREAK PA7_Portrait-CU", "BREAK PA7_Portrait-MCU", "BREAK PA7_Portrait-MS", "BREAK PA7_Portrait-HL", "BREAK PA7_Portrait-FL"]
+  },
+  "Camera angle": {
+    "none": null,
+    "random": ["Eye level", "High angle", "Low angle", "side profile shot", "From behind", "From beside", "Slightly above", "Top view", "Off center shot", "Tilted angle", "Dutch angle", "Canted angle", "From back", "Silhouette shot", "Straight-on angle", "Overhead angle", "Ground level angle", "Worm's-eye view", "Slanted angle", "Oblique angle", "Upside-down angle", "Sideways angle", "Horizontal angle", "Vertical angle", "Diagonal angle", "Isometric angle", "Top-down angle"]
+  }
+}

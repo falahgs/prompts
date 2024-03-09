@@ -1,0 +1,197 @@
+{
+  "Type of photography": {
+    "none": null,
+    "random": [
+      "Portrait photography",
+      "Cinematic still",
+      "Fashion photography",
+      "Street photography",
+      "Underwater photography",
+      "Time-lapse photography",
+      "Black and White photography",
+      "360-Degree photography",
+      "Documentary photography"
+    ]
+  },
+  "Islamic 3D Frames": {
+    "none": null,
+    "random": [
+      "Islamic mosque",
+      "Oil painting",
+      "Large frame",
+      "Attached to the wall",
+      "Water spilling",
+      "Museum floor",
+      "Patrons",
+      "Fleeing",
+      "Real painting",
+      "Manipulation"
+    ]
+  },
+  "Lights": {
+    "none": null,
+    "random": [
+      "Natural light",
+      "Artificial light",
+      "Soft light",
+      "Hard light",
+      "Backlight",
+      "Fill light",
+      "Key light",
+      "Rim light",
+      "Accent light",
+      "Ambient light",
+      "Directional light"
+    ]
+  },
+  "Camera Type": {
+    "none": null,
+    "random": [
+      "DSLR",
+      "Mirrorless",
+      "Point-and-shoot",
+      "Medium format",
+      "Film camera",
+      "Action camera",
+      "Drone camera",
+      "Compact camera",
+      "Instant camera"
+    ]
+  },
+  "Camera Angles": {
+    "none": null,
+    "random": [
+      "Eye-level",
+      "Low angle",
+      "High angle",
+      "Bird's-eye view",
+      "Worm's-eye view",
+      "Dutch angle",
+      "Over-the-shoulder",
+      "POV (Point of View)"
+    ]
+  },
+  "Environments": {
+    "none": null,
+    "random": [
+      "Indoor",
+      "Outdoor",
+      "Urban",
+      "Rural",
+      "Natural",
+      "Studio",
+      "Underwater",
+      "Aerial",
+      "Mountainous",
+      "Desert"
+    ]
+  },
+  "Colors": {
+    "none": null,
+    "random": [
+      "Monochrome",
+      "Black and White",
+      "Pastel",
+      "Vibrant",
+      "Neutral",
+      "Warm tones",
+      "Cool tones",
+      "Primary colors",
+      "Secondary colors",
+      "Complementary colors"
+    ]
+  },
+  "Background": {
+    "none": null,
+    "random": [
+      "Plain background",
+      "Textured background",
+      "Natural background",
+      "Urban background",
+      "Abstract background",
+      "Blurred background",
+      "Bokeh background",
+      "Gradient background",
+      "Patterned background",
+      "Digital background"
+    ]
+  },
+  "Actions": {
+    "none": null,
+    "random": [
+      "Walking",
+      "Running",
+      "Jumping",
+      "Laughing",
+      "Talking",
+      "Sitting",
+      "Standing",
+      "Posing",
+      "Interacting",
+      "Playing"
+    ]
+  },
+  "Frame Shapes": {
+    "none": null,
+    "random": [
+      "Rectangular",
+      "Square",
+      "Circular",
+      "Oval",
+      "Triangular",
+      "Hexagonal",
+      "Heart-shaped",
+      "Star-shaped",
+      "Custom-shaped"
+    ]
+  },
+  "Materials": {
+    "none": null,
+    "random": [
+      "Wooden",
+      "Metallic",
+      "Glass",
+      "Plastic",
+      "Ceramic",
+      "Marble",
+      "Fabric",
+      "Stone",
+      "Gold",
+      "Silver"
+    ]
+  },
+  "Subjects": {
+    "none": null,
+    "random": [
+      "Dog",
+        "Cat",
+        "Horse",
+        "Elephant",
+        "Lion",
+        "Tiger",
+        "Bear",
+        "Giraffe",
+        "Zebra",
+        "Monkey",
+        "Bird",
+        "Fish",
+        "Dolphin",
+        "Whale",
+        "Snake",
+        "Turtle",
+        "Frog",
+        "Butterfly",
+        "Bee",
+        "Ant",
+        "Male",
+      "Woman",
+      "Man",
+      "Child",
+      "Elderly person",
+      "female",
+      "old woman",
+      "cute",
+	  "old man"
+    ]
+  }
+}
